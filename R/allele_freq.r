@@ -1,4 +1,4 @@
-calculate_allele_freq <- function(population) {
+allele_freq <- function(population) {
 
   # Remove the individual ID column
   genotypes <- population[, -1]

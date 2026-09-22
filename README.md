@@ -21,6 +21,7 @@ sim <- pop_sim(
   selection = 0.01
 )
 
+#To Graph the Results
 plot_pop(sim)
 
 #To Calculate Allele Frequency with Nucleotides
@@ -31,6 +32,6 @@ generation1 <- data.frame(
   snp3=c("TC", "CT", "TT", "CC", "TT", "CT", "CT","CC", "CT", "TT")
   )
 
-calculate_allele_freq(generation1)
+allele_freq(generation1)
 
 
