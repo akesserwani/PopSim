@@ -1,4 +1,3 @@
-#Functions
 calculate_allele_freq <- function(population) {
 
   # Remove the individual ID column
