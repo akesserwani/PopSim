@@ -32,6 +32,6 @@ generation1 <- data.frame(
   snp3=c("TC", "CT", "TT", "CC", "TT", "CT", "CT","CC", "CT", "TT")
   )
 
-calculate_frequency(generation1)
+calculate_allele_freq(generation1)
 
 
