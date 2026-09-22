@@ -1,2 +1,3 @@
 export(pop_sim)
 export(plot_pop)
+calculate_allele_freq(population)
