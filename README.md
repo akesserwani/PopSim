@@ -23,7 +23,6 @@ sim <- pop_sim(
 
 plot_pop(sim)
 
-```r
 #To Calculate Allele Frequency with Nucleotides
 generation1 <- data.frame(
   ind=c(1,2,3,4,5,6,7,8,9,10),
