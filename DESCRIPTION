@@ -1,0 +1,15 @@
+Package: PopSim
+Type: Package
+Title: Simple Population Genetics Simulations
+Version: 0.1.0
+Authors@R: person(
+    "Ali",
+    "Kesserwani",
+    email = "alikesserwani23@gmail.com",
+    role = c("aut", "cre")
+    )
+Description: Simple population genetics simulations designed for
+    teaching genetic drift, migration, natural selection, bottlenecks,
+    and allele-frequency change.
+License: GPL-3
+Encoding: UTF-8
